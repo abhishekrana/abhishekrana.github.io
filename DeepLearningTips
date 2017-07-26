@@ -1,0 +1,69 @@
+
+If finetuning a model, preprocessing for it should be the same as the original model’s training.  For example, should an image pixel be in the range [0, 1], [-1, 1] or [0, 255]
+
+Start with a really small dataset (2–20 samples). Overfit on it and gradually add more data.
+
+Turn off all bells and whistles, e.g. regularization and data augmentation.
+
+Start gradually adding back all the pieces that were omitted: augmentation/regularization, custom loss functions, try more complex models.
+
+If your dataset hasn’t been shuffled and has a particular order to it (ordered by label) this could negatively impact the learning  
+
+Reduce class imbalance
+
+1000 images pre class or more for image classification
+
+Make sure your batches don’t contain a single label which can happen in a sorted data
+
+When testing new network architecture or writing a new piece of code, use the standard datasets first, instead of your own data. Eg: mnist, cifar10 
+
+Standardize your input to have zero mean and unit variance
+
+Augmentation has a regularizing effect. Too much of this combined with other forms of regularization (weight L2, dropout, etc.) can cause the net to underfit
+
+
+“… any preprocessing statistics (e.g. the data mean) must only be computed on the training data, and then applied to the validation/test data. E.g. computing the mean and subtracting it from every image across the entire dataset and then splitting the data into train/val/test splits would be a mistake. “ - CS231n
+
+CS231n: Initialize with small parameters, without regularization. For example, if we have 10 classes, at chance means we will get the correct class 10% of the time, and the Softmax loss is the negative log probability of the correct class so: -ln(0.1) = 2.302. After this, try increasing the regularization strength which should increase the loss.
+
+
+If your loss is composed of several smaller loss functions, make sure their magnitude relative to each is correct.
+
+If unsure, use Xavier or He initialization. Also, your initialization might be leading you to a bad local minimum, so try a different initialization and see if it helps.
+
+try a grid search.
+
+“For weights, these histograms should have an approximately Gaussian (normal) distribution, after some time. For biases, these histograms will generally start at 0, and will usually end up being approximately Gaussian (One exception to this is for LSTM). Keep an eye out for parameters that are diverging to +/- infinity. Keep an eye out for biases that become very large. This can sometimes occur in the output layer for classification if the distribution of classes is very imbalanced.”
+
+Monitor the activations, weights, and updates of each layer. Make sure their magnitudes match. For example, the magnitude of the updates to the parameters (weights and biases) should be 1-e3.
+
+Try a different optimizer
+
+Check layer updates, as very large values can indicate exploding gradients. Gradient clipping may help.
+   
+Check layer activations. From Deeplearning4j comes a great guideline: “A good standard deviation for the activations is on the order of 0.5 to 2.0. Significantly outside of this range may indicate vanishing or exploding activations.”
+   
+ 
+Overcoming NaNs
+  Decrease the learning rate, especially if you are getting NaNs in the first 100 iterations.
+  NaNs can arise from division by zero or natural log of zero or negative number.
+  Russell Stewart has great pointers on how to deal with NaNs.
+  Try evaluating your network layer by layer and see where the NaNs appear.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
