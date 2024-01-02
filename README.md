@@ -1,7 +1,7 @@
 ## Experience
 
-**Software Engineer II, Edge Case Research, Munich, Germany**
 <sub>MAY 2020 - AUGUST 2023, 3 yrs 4 mos</sub>
+**Software Engineer II, Edge Case Research, Munich, Germany**
 
 - Worked in a cross-functional agile team to develop software for BMW to validate safety of autonomous vehicles.
   - nLoop Virtual Test House (VTH) to create and run safety test cases across different platforms at BMW.
