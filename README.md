@@ -65,7 +65,7 @@ Skills: C, C++, SBC, LTE (4G).
 | Backend        | Python - FastAPI, Pydantic, SQLAlchemy (PostgreSQL), Beanie (MongoDB) |
 |                | Golang - Chi                                                          |
 | Infrastructure | PostgreSQL, MongoDB, Redis                                            |
-| Deployment     | Kubernetes, Helm                                                      |
+| Deployment     | Kubernetes (k3d), Helm                                                      |
 
 Skills: Python, Golang, Vue.js, Javascript, HTML, CSS, FastAPI, Pydantic, SQLAlchemy, Docker, PostgreSQL, MongoDB, Redis, Helm, Kubernetes.
 
