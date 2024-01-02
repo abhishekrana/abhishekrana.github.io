@@ -1,5 +1,3 @@
-[Experience](https://abhishekrana.github.io/experience) | [Education](https://abhishekrana.github.io/education) | [Projects](https://abhishekrana.github.io/projects)
-
 ## Experience
 
 <sub>MAY 2020 - AUGUST 2023, 3 yrs 4 mos</sub><br />
@@ -38,30 +36,3 @@ Skills: C, C++, Python, LTE (4G), PTP.
 - Implemented audio/video call, call hold and call resume functionality in SBC.
 
 Skills: C, C++, SBC, LTE (4G).
-
-## Education
-
-<sub>OCTOBER 2016 - APRIL 2019</sub><br />
-**Master of Science (M.Sc.) in Informatics, Technical University of Munich, Munich, Germany**
-
-- Thesis: Adversarial Data Augmentation Techniques for Skin Lesion Classifiers.
-
-<sub>APRIL 2008 - MAY 2012</sub><br />
-**Bachelor of Technology (B.Tech) in Computer Science And Engineering, National Institute Of Technology (NIT) , Hamirpur, India**
-
-## Projects
-
-**Tech stack for microservices based application ([Github](https://github.com/abhishekrana/tech-stack))**
-Skills: Python, Golang, Vue.js, Javascript, HTML, CSS, FastAPI, Pydantic, SQLAlchemy, Docker, PostgreSQL, MongoDB, Redis, Helm, Kubernetes.
-
-**Apparel detection using deep learning ([Github](https://github.com/abhishekrana/DeepFashion))**
-Skills: Python, Keras, Augmented Reality, Computer Vision, Deep Learning.
-
-**Guitar fretboard detection and notes projection ([Github](https://github.com/abhishekrana/guitar-augmented-reality))**
-Skills: Python, Keras, Augmented Reality, Computer Vision, Deep Learning.
-
-**[ISIC 2018 - Skin disease classification challenge](https://challenge2018.isic-archive.com) using Cascaded DenseNets for Multi-Class Skin Lesion Classification. ([Github](https://github.com/abhishekrana/isic2018-skin-lesion-classifier-tensorflow))**
-Skills: Python, Tensorflow, Computer Vision, Deep Learning.
-
-**Transfer learning using Generative Adversarial Networks (GAN) on a small NORB dataset. ([Github](https://github.com/abhishekrana/dcgan-pytorch))**
-Skills: Python, Pytorch, Computer Vision, Deep Learning.
