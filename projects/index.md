@@ -1,16 +1,47 @@
 ## Projects
 
 **Tech stack for microservices based application ([Github](https://github.com/abhishekrana/tech-stack))**
+
+- Modern tech stack for microservices with support for local development/deployment on kubernetes.
+
+| Service        | Technologies                                                          |
+| -------------- | --------------------------------------------------------------------- |
+| Frontend       | Vue3 - Typescript, Pinia                                              |
+| Backend        | Python - FastAPI, Pydantic, SQLAlchemy (PostgreSQL), Beanie (MongoDB) |
+|                | Golang - Chi                                                          |
+| Infrastructure | PostgreSQL, MongoDB, Redis                                            |
+| Deployment     | Kubernetes, Helm                                                      |
+
 Skills: Python, Golang, Vue.js, Javascript, HTML, CSS, FastAPI, Pydantic, SQLAlchemy, Docker, PostgreSQL, MongoDB, Redis, Helm, Kubernetes.
 
+**Image to text using AWS Serverless (Lambda) and SAM**
+
+- Image to text service using AWS Lambda function and AWS SAM(Serverless Application Model).
+
+Skills: Python, AWS Lambda, AWS Serverless, SAM.
+
 **Apparel detection using deep learning ([Github](https://github.com/abhishekrana/DeepFashion))**
+
+- Detect apparels in images using deep learning classification and regression model trained on clothing images.
+
 Skills: Python, Keras, Augmented Reality, Computer Vision, Deep Learning.
 
 **Guitar fretboard detection and notes projection ([Github](https://github.com/abhishekrana/guitar-augmented-reality))**
+
+- Train and predict guitar fretboard using deep learning model (UNet).
+- Project a mesh on the detected fretboard (using Homography).
+- Display the notes to play on the projected mesh.
+
 Skills: Python, Keras, Augmented Reality, Computer Vision, Deep Learning.
 
-**[ISIC 2018 - Skin disease classification challenge](https://challenge2018.isic-archive.com) using Cascaded DenseNets for Multi-Class Skin Lesion Classification. ([Github](https://github.com/abhishekrana/isic2018-skin-lesion-classifier-tensorflow))**
+**ISIC 2018 - Skin disease classification challenge ([Github](https://github.com/abhishekrana/isic2018-skin-lesion-classifier-tensorflow))**
+
+- Train and predict skin cancer using Cascaded DenseNets for Multi-Class Skin Lesion Classification and [ISIC 2018 - Skin Lesion Classification for Melanoma Detection](https://challenge2018.isic-archive.com) dataset.
+
 Skills: Python, Tensorflow, Computer Vision, Deep Learning.
 
-**Transfer learning using Generative Adversarial Networks (GAN) on a small NORB dataset. ([Github](https://github.com/abhishekrana/dcgan-pytorch))**
+**Image generation using Generative Adversarial Networks (GAN) ([Github](https://github.com/abhishekrana/dcgan-pytorch))**
+
+- Generate synthetic/fake images using DCGAN (Deep Convolutional Generative Adversarial Networks) and small NORB dataset.
+
 Skills: Python, Pytorch, Computer Vision, Deep Learning.
