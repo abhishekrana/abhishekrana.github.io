@@ -16,7 +16,7 @@
 
 Skills: Python, Golang, Vue.js, Javascript, HTML, CSS, FastAPI, Pydantic, SQLAlchemy, Docker, PostgreSQL, MongoDB, Redis, Helm, Kubernetes.
 
-**Image to text using AWS Serverless (Lambda) and SAM**
+**Image to text using AWS Serverless (Lambda) and SAM ([Github](https://github.com/abhishekrana/aws-serverless-image-to-text))**
 
 - Image to text service using AWS Lambda function and AWS SAM(Serverless Application Model).
 
