@@ -12,8 +12,8 @@
 
 Skills: Python, Golang, Vue.js, Javascript, HTML, CSS, Flask, FastAPI, Pydantic, SQLAlchemy, Pytest, Apache Airflow, Docker, SQL, PostgreSQL, NoSQL, Redis, RabbitMQ, InfluxDB, Helm, Kubernetes, Openshift, AWS, Terraform, Github Actions, RESTful APIs, Agile Methodologies.
 
+<sub>MAY 2019 - APRIL 2020, 1 yr</sub><br />
 **Machine Learning Engineer, Terraloupe, Munich, Germany**
-<sub>MAY 2019 - APRIL 2020, 1 yr</sub>
 
 - Developed deep learning training and inference pipelines for semantic segmentation using TPU’s.
 - Developed/trained object detection algorithms/models for detection of buildings, roads, lanes, etc in aerial imagery.
