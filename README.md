@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## Experience
 
-You can use the [editor on GitHub](https://github.com/abhishekrana/abhishekrana.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Software Engineer II, Edge Case Research, Munich, Germany**
+<sub>MAY 2020 - AUGUST 2023, 3 yrs 4 mos</sub>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Worked in a cross-functional agile team to develop software for BMW to validate safety of autonomous vehicles.
+  - nLoop Virtual Test House (VTH) to create and run safety test cases across different platforms at BMW.
+  - Platform Evaluation Service to compare Safety Performance Indicators (SPI’s) between different platforms.
+- Developed python microservices with RESTful APIs using hexagonal architecture from ground up.
+- Migrated CI pipeline from Jenkins to Github Actions and achieved 50% reduction in execution time.
+- Implemented automated nightly deployment and end-to-end testing pipeline using Github Large Runners.
 
-### Markdown
+Skills: Python, Golang, Vue.js, Javascript, HTML, CSS, Flask, FastAPI, Pydantic, SQLAlchemy, Pytest, Apache Airflow, Docker, SQL, PostgreSQL, NoSQL, Redis, RabbitMQ, InfluxDB, Helm, Kubernetes, Openshift, AWS, Terraform, Github Actions, RESTful APIs, Agile Methodologies.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Machine Learning Engineer, Terraloupe, Munich, Germany**
+<sub>MAY 2019 - APRIL 2020, 1 yr</sub>
 
-```markdown
-Syntax highlighted code block
+- Developed deep learning training and inference pipelines for semantic segmentation using TPU’s.
+- Developed/trained object detection algorithms/models for detection of buildings, roads, lanes, etc in aerial imagery.
+- Developed 3D lane model from aerial imagery semantic segmentation, DTM and DSM.
 
-# Header 1
-## Header 2
-### Header 3
+Skills: Python, Tensorflow, Pytorch, Keras, OpenCV, Shapely, GIS, QGIS, Docker, GCP, Computer Vision, Deep Learning.
 
-- Bulleted
-- List
+**Senior Software Engineer, Aricent Technologies, Gurgaon, India**
+<sub>JAN 2015 - AUG 2016, 1 yr 9 mos</sub>
 
-1. Numbered
-2. List
+- Developed Timing and Synchronization module to provide accurate time to the eNodeB (LTE) using GNSS and to maintain the timing precision.
+- Integrated PTP (Precision Time Protocol) framework (Microsemi) to provide sync to multiple PTP Clients (eNodeB) using PTP server.
 
-**Bold** and _Italic_ and `Code` text
+Skills: C, C++, Python, LTE (4G), PTP.
 
-[Link](url) and ![Image](src)
-```
+**Software Engineer, Reliance Jio Infocomm Limited, Gurgaon, India**
+<sub>JULY 2012 - DEC 2014, 2 yrs 6 mos</sub>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Developed SBC (Session Border Controller) to set up, conduct and tear down media communications in a LTE network.
+- Implemented audio/video call, call hold and call resume functionality in SBC.
 
-### Jekyll Themes
+Skills: C, C++, SBC, LTE (4G).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abhishekrana/abhishekrana.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Education
 
-### Support or Contact
+**Master of Science (M.Sc.) in Informatics, Technical University of Munich, Munich, Germany**
+<sub>OCTOBER 2016 - APRIL 2019</sub>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Thesis: Adversarial Data Augmentation Techniques for Skin Lesion Classifiers.
+- ISIC 2018 - Skin disease classification challenge using Cascaded DenseNets for Multi-Class Skin Lesion Classification. (Github)
+- Transfer learning using Generative Adversarial Networks (GAN) on a small NORB dataset. (Github)
+- Plant Detection and Classification using deep learning models at Acrai (UnternehmerTUM startup) using CNN.
+
+Skills: Python, Tensorflow, Pytorch, Computer Vision, Deep Learning, Machine Learning.
+
+**Bachelor of Technology (B.Tech) in Computer Science And Engineering, National Institute Of Technology (NIT) , Hamirpur, India**
+<sub>APRIL 2008 - MAY 2012</sub>
+
+## Projects
+
+**Tech stack for microservices based application (Github)**
+
+**Apparel detection using deep learning (Github)**
+
+**Guitar fretboard detection and notes projection (Github)**

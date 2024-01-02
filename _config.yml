@@ -1,1 +1,5 @@
-theme: jekyll-theme-architect
+title: Abhishek Rana
+logo: /assets/images/photo.jpg
+# description:
+# show_downloads: true
+theme: jekyll-theme-minimal
