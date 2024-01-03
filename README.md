@@ -65,7 +65,7 @@ Skills: C, C++, SBC, LTE (4G).
 | Backend        | Python - FastAPI, Pydantic, SQLAlchemy (PostgreSQL), Beanie (MongoDB) |
 |                | Golang - Chi                                                          |
 | Infrastructure | PostgreSQL, MongoDB, Redis                                            |
-| Deployment     | Kubernetes (k3d), Helm                                                      |
+| Deployment     | Kubernetes (k3d), Helm                                                |
 
 Skills: Python, Golang, Vue.js, Javascript, HTML, CSS, FastAPI, Pydantic, SQLAlchemy, Docker, PostgreSQL, MongoDB, Redis, Helm, Kubernetes.
 
@@ -74,6 +74,12 @@ Skills: Python, Golang, Vue.js, Javascript, HTML, CSS, FastAPI, Pydantic, SQLAlc
 - Image to text service using AWS Lambda function and AWS SAM(Serverless Application Model).
 
 Skills: Python, AWS Lambda, AWS Serverless, SAM.
+
+**Project Manager ([Github](https://github.com/abhishekrana/project-manager))**
+
+- Application to manage projects within a team.
+
+Skills: Vue, Vuetify, Typescript, Javascript, HTML, CSS, Vite
 
 **Apparel detection using deep learning ([Github](https://github.com/abhishekrana/DeepFashion))**
 
