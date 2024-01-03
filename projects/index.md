@@ -22,7 +22,7 @@ Skills: Python, Golang, Vue.js, Javascript, HTML, CSS, FastAPI, Pydantic, SQLAlc
 
 Skills: Python, AWS Lambda, AWS Serverless, SAM.
 
-**Project Manager ([Github](https://github.com/abhishekrana/project-manager)))**
+**Project Manager ([Github](https://github.com/abhishekrana/project-manager))**
 
 - Application to manage projects within a team.
 
