@@ -2,6 +2,8 @@
 
 ## Projects
 
+### Full Stack
+
 **Tech stack for microservices based application ([Github](https://github.com/abhishekrana/tech-stack))**
 
 - Modern tech stack for microservices with support for local development/deployment on kubernetes.
@@ -16,17 +18,29 @@
 
 Skills: Python, Golang, Vue.js, Javascript, HTML, CSS, FastAPI, Pydantic, SQLAlchemy, Docker, PostgreSQL, MongoDB, Redis, Helm, Kubernetes.
 
+### Backend
+
 **Image to text using AWS Serverless (Lambda) and SAM ([Github](https://github.com/abhishekrana/aws-serverless-image-to-text))**
 
 - Image to text service using AWS Lambda function and AWS SAM(Serverless Application Model).
 
 Skills: Python, AWS Lambda, AWS Serverless, SAM.
 
+### Frontend
+
 **Project Manager ([Github](https://github.com/abhishekrana/project-manager))**
 
 - Application to manage projects within a team.
 
 Skills: Vue, Vuetify, Typescript, Javascript, HTML, CSS, Vite
+
+**Tic Tac Toe ([Github](https://github.com/abhishekrana/tic-tac-toe))**
+
+- Tic Tac Toe game
+
+Skills: React, Javascript, HTML, CSS, Vite
+
+### Deep Learning & Computer Vision
 
 **Apparel detection using deep learning ([Github](https://github.com/abhishekrana/DeepFashion))**
 
