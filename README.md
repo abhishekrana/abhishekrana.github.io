@@ -4,6 +4,8 @@
 
 I am a passionate software developer, with 8+ years of industry experience, interested in building (micro)services and a background in deep learning and computer vision.
 
+---
+
 ## Experience
 
 <sub>MAY 2020 - AUGUST 2023, 3 yrs 4 mos</sub><br />
@@ -43,6 +45,8 @@ Skills: C, C++, Python, LTE (4G), PTP.
 
 Skills: C, C++, SBC, LTE (4G).
 
+---
+
 ## Education
 
 <sub>OCTOBER 2016 - APRIL 2019</sub><br />
@@ -52,6 +56,8 @@ Skills: C, C++, SBC, LTE (4G).
 
 <sub>APRIL 2008 - MAY 2012</sub><br />
 **Bachelor of Technology (B.Tech) in Computer Science And Engineering, National Institute Of Technology (NIT) , Hamirpur, India**
+
+---
 
 ## Projects
 
